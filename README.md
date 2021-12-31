@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @NevzatGazi
-- 👀 I’m interested in 
-- 🌱 I’m currently learning html-css and javascript
-- 💞️ I’m looking to collaborate on ...
+
+- 🌱 I’m currently learning html-css and javascript.
+
+- 👀 I’m interested in books, psychology and chess♟.
+
 - 📫 How to reach me: nevzatgaziozdemir@gmail.com
 
 <!---
