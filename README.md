@@ -8,7 +8,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NevzatGazi)](https://github.com/anuraghazra/github-readme-stats)
+Languages and Tools:
+
+HTML3 HTML5 CSS3 JavaScript
 
 <!---
 NevzatGazi/NevzatGazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
