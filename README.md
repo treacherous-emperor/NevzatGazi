@@ -5,7 +5,7 @@
 
 -* I’m @NevzatGazi
 
-- 🌱 I’m currently learning html-css and javascript.
+- 🌱 I’m currently learning html-css and javascript. That trio fills my motivation.
 
 - 👀 I’m interested in front-end web Development, books, psychology and nature.
 
