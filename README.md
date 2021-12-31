@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning html-css and javascript.
 
-- 👀 I’m interested in books, psychology and chess♟.
+- 👀 I’m interested in books, psychology and nature.
 
 - 📫 How to reach me: nevzatgaziozdemir@gmail.com
 
