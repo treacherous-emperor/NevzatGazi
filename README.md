@@ -1,3 +1,8 @@
+   
+   Heyy Lady and Gentlemen 👋
+
+
+
 - 👋 Hi, I’m @NevzatGazi
 
 - 🌱 I’m currently learning html-css and javascript.
