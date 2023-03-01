@@ -3,7 +3,7 @@
 
 
 
--* I’m @treacherous-emperor
+-* I’m Nevzat.
 
 - 🌱 I’m currently learning html-css and javascript. That trio fills my motivation.
 
@@ -25,6 +25,6 @@ Languages and Tools:
 
 
 <!---
-NevzatGazi/NevzatGazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+treacherous-emperor/treacherous-emperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
