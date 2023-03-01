@@ -3,7 +3,7 @@
 
 
 
--* I’m @NevzatGazi
+-* I’m @treacherous-emperor
 
 - 🌱 I’m currently learning html-css and javascript. That trio fills my motivation.
 
